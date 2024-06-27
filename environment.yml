@@ -33,8 +33,9 @@ dependencies:
   - seaborn
   - netcdf4
   - h5netcdf
+  - asf_search
   # for ARIA, FRInGE, HyP3, GMTSAR
-  - gdal>=3
+  - gdal>=3.3
   # for pyresample
   - pyresample
   - openmp
