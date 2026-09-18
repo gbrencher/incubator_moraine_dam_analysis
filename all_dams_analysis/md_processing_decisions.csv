@@ -1,0 +1,24 @@
+icimod_id,survey_name,asc_burst,des_burst,lat_lot,significant_snow,highcorr_period,lowcorr_period,snow_period,offsets_required,moving_area,dist_from_glacier,glacier_min_elev,outflow,prior_glof,south_side_moving,rep_dam_velocity,notes
+kotak_gl_0009,rolpa,012_023790_IW1,121_258662_IW2,"27.862, 86.477",yes,100-160,220-280,340-100,no,yes,3109,4575,0,0,0,descending,"ascending burst affected by significant layover over dam, not usable"
+koaru_gl_0009,barun,012_023789_IW1,121_258662_IW1,"27.798, 87.097",yes,120-180,220-280,340-120,yes,yes,2606,4529,1,0,1,combined,
+kodud_gl_0184,imja,012_023790_IW1,121_258661_IW2,"27.899, 86.923",no,0-100,220-280,,yes,yes,2459,5000,1,0,0,combined,
+kodud_gl_0036,lumding,012_023789_IW1,121_258662_IW2,"27.779, 86.614",yes,160-200,230-290,320-160,no,yes,2514,4867,1,0,1,combined,relatively longer time snow-covered
+kodud_gl_0242,chamlang_south ,012_023789_IW1,121_258662_IW2,"27.755, 86.96",no,0-100,230-290,,no,yes,1627,5167,1,1,1,combined,
+gamar_gl_0018,thulagi,085_180592_IW1,019_039569_IW2,"28.489, 84.486",yes,120-180,220-280,340-120,yes,yes,2298,4024,1,0,0,combined,
+kotam_gl_0135,nagma,012_023788_IW2,048_101863_IW3,"27.87, 87.867",yes,130-200,240-300,340-130,no,yes,2434,5203,1,1,1,combined,
+kodud_gl_0241,chamlang_north,012_023789_IW1,121_258662_IW2,"27.784, 86.957",no,0-100,230-290,,no,yes,1510,5230,1,0,0,combined,
+gakal_gl_0004,muli_tal,158_337392_IW2,092_196365_IW1,"28.888, 83.528",yes,120-200,220-280,260-120,no,yes,892,5616,1,0,1,combined,long snow-covered period
+kodud_gl_0012,barun_pokhari,012_023789_IW1,121_258662_IW1,"27.845, 87.082",yes,120-180,230-290,340-120,no,yes,1671,5152,1,1,1,combined,
+kodud_gl_0238,east_hongu_1,012_023789_IW1,121_258662_IW2,"27.799, 86.967",no,0-100,230-290,,no,yes,1688,5529,1,1,0,combined,
+gabud_gl_0009,birendra,085_180593_IW1,019_039569_IW2,"28.597, 84.63",yes,140-200,230-290,330-140,no,no,1722,4197,1,1,0,,strong coherence changes from vegetation
+kodud_gl_0220,mera,012_023789_IW1,121_258662_IW2,"27.795, 86.912",yes,120-180,230-290,340-120,no,yes,1332,5477,0,0,0,combined,
+koaru_gl_0016,upper_barun,012_023789_IW1,121_258662_IW1,"27.83, 87.096",yes,120-180,230-290,300-100,no,yes,942,5292,0,0,0,combined,
+gakal_gl_0008,gakal_gl_0008,158_337392_IW3,092_196364_IW1,"29.046, 83.673",yes,120-180,230-290,300-100,no,yes,1304,5499,1,0,1,combined,
+kotam_gl_0111,kotam_gl_0111,012_023788_IW2,121_258661_IW1,"27.817, 87.75",yes,150-210,230-290,330-140,no,no,1027,5005,1,1,0,,"both look directions affected by layover on steep moraine slopes, des especially"
+kodud_gl_0239,east_hongu_2,012_023789_IW1,121_258662_IW2,"27.806, 86.975",no,0-100,230-290,,no,yes,611,5529,1,0,0,combined,
+gakal_gl_0022,tallo_kekyap,158_337393_IW3,092_196363_IW1,"29.218, 83.701",no,0-180,230-290,,no,yes,1454,5591,1,0,1,combined,"des affected by low coherence, potential layover"
+gakal_gl_0023,kekyap,158_337393_IW3,092_196363_IW1,"29.201, 83.682",no,0-180,230-290,,no,yes,1136,5506,1,0,1,combined,
+kodud_gl_0049,dig,012_023790_IW1,121_258662_IW2,"27.875, 86.587",yes,100-180,230-290,330-120,no,yes,1356,4875,1,1,1,combined,
+kodud_gl_0193,sabai,012_023789_IW1,121_258662_IW2,"27.743, 86.845",yes,120-180,230-290,,no,no,1266,4885,1,1,0,,ascending burst affected by layover over most of dam
+kodud_gl_0205,kodud_gl_0205,012_023789_IW1,121_258662_IW2,"27.688, 86.859",yes,130-190,230-290,330-130,no,yes,1268,5040,1,0,1,combined,
+kodud_gl_0229,hongu_1,012_023789_IW1,121_258662_IW2,"27.838, 86.936",yes,100-180,230-290,330-100,no,yes,1290,5216,1,0,1,,

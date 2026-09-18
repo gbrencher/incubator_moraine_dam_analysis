@@ -1,0 +1,40 @@
+# --- Jupyter / editor scratch ---
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+*-checkpoint.csv
+.virtual_documents/
+
+# --- AI assistant scratch ---
+chats/
+*.chat
+.claude/
+.codex/
+CLAUDE.local.md
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.ipython/
+
+# --- Input data (HyP3 products; hosted on AWS, see README) ---
+data/
+data_igrams/
+data_offsets/
+
+# --- MintPy run directories and derived rasters ---
+dams/*/asc_mintpy/
+dams/*/des_mintpy/
+exploratory/*/asc_mintpy/
+exploratory/*/des_mintpy/
+*.h5
+*.tif
+*.tiff
+all_dams_analysis/terrain/
+
+# --- OS ---
+.DS_Store
+Thumbs.db
